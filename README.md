@@ -1,1 +1,1 @@
-# payment-logos
+# image-logos
